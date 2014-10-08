@@ -39,6 +39,7 @@ Received: hello from /topic/foo.bar
 Changelog?
 ==========
 
+2013/10/02 - Add documented support for exchanges
 2011/01/20 - Add persistence support to queue sending
 
 License?
